@@ -38,7 +38,7 @@ async def start(client, message):
                     InlineKeyboardButton('👥 Group', url='https://t.me/DOSTI_GROUP_1234'),
                     InlineKeyboardButton('Channel 📢', url='https://t.me/ABOUT_ABHINAS')
                   ],[
-                    InlineKeyboardButton('🙄 Onwe', url='https://t.me/abhinasroy'),
+                    InlineKeyboardButton('🙄 Onwer', url='https://t.me/abhinasroy'),
                     InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/ABOUT_ABHINAS'),
                     InlineKeyboardButton('Study Group👨‍🎤', url='https://t.me/studymaterial5555')
                   ],[
